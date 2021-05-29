@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ola_mundo">Ola Mundo</string>
+    <string name="txt_pagar">Pay</string>
+    <string name="txt_transferir">Transfer</string>
+    <string name="txt_recarregar">Recharge</string>
+    <string name="txt_ver_extrado">View Extract</string>
+    <string name="txt_saldoLimite">Balance - Limit</string>
+    <string name="text_saldo_disponivel">Balance Available</string>
+    <string name="txt_cart_o_final">Final Card</string>
+</resources>

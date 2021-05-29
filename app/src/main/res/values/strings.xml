@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="ola_mundo">Ola Mundo</string>
+    <string name="usuario">Olá, Thomaz</string>
+    <string name="app_name"></string>
+    <string name="agencia">Ag 0001</string>
+    <string name="conta">Cc 9072458-5</string>
+    <string name="text_saldo_disponivel">Saldo Disponivel</string>
+    <string name="txt_saldoLimite">Saldo - Limite</string>
+    <string name="txt_ver_extrado">Ver Extrado</string>
+    <string name="txt_pagar">Pagar</string>
+    <string name="txt_transferir">Transferir</string>
+    <string name="txt_recarregar">Recarregar</string>
+    <string name="txt_cart_o_final">Cartão Final</string>
+    <string name="txt_final">4954</string>
+    <string name="r_60_000_00">R$ 60.000,00</string>
+    <string name="r_65_000_00">R$ 65.000,00</string>
+    <string name="logo">logo</string>
+
+</resources>
